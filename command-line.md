@@ -13,6 +13,6 @@ Command prompts - specifically for Ubuntu (should work on most distributions)
 6.      free: Will display the amount of free and used memory in the system, using megabyes. E.g. free-m
 7.      top: Displays information on your Linux system, running processes, and system resources, including CPU, RAM and the total number of tasks being run. (To exit top, press Q).
 8.      ps: Allows you to see all processes running on the machine.
-9.      grep: The grep command allows you to search for a particular pattern e.g. a word or bit of text, like bev, it will then list the titles in a file which have matching lines. E.g. grep bev file. Matching the pattern ‘bev’ in the file ‘file’. (Can be used with ls… as in, ls |grep bev
+9.      grep: The grep command allows you to search for a particular pattern e.g. a word or bit of text, like bev, it will then list the titles in a file which have matching lines. E.g. grep bev file. Matching the pattern ‘bev’ in the file ‘file’. (Can be used with ls… as in, ls |grep bev).
 10.   sed: Or Stream EDitor, will allow you to search for a pattern or text, and change it. So it will file occurances of ‘cat’ and can change them to ‘chicken’, in a file named pets E.g. sed/cat/chicken/g pets
 11.   ping: Tell you how long it takes for the connection to reach the server. (added the 11th as its the only one I knew before doing anything.)
